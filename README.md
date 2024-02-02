@@ -11,7 +11,7 @@ This workshop is structured as follows:
   4. Wrapping up: final notes and resources regarding the CSC and ways to stay connected
 
 This repository contains the following materials:
-  1. A PDF slide deck, containing the general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
+  1. A PDF slide deck (containing the general workshop outline/flow), links to virtual games, and resources to stay connected to the CSC for future events
 
 For quick access to the games played during this workshop, please see below:
   1. Scratch:   https://scratch.mit.edu/projects/editor/?tutorial=getStarted
