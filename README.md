@@ -14,10 +14,10 @@ Kick off the Spring Semester with a warm welcome back to the CSC! Join us for be
      
 
 **This repository contains the following materials:**
-  1. welcome-back-to-spring-2024:  PDF slide deck containing: general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
+  1. welcome-back-to-spring-2024: &ensp; PDF slide deck containing: general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
      
 
 **For quick access to the games played during this workshop, please see below:**
-  1. Scratch:   https://scratch.mit.edu/projects/editor/?tutorial=getStarted
-  2. Codesters:   https://www.codesters.com/curriculum/hour-of-code-2019/Basketball/1/
-  3. Py.Checkio:   https://py.checkio.org/
+  1. Scratch: &ensp; https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+  2. Codesters: &ensp; https://www.codesters.com/curriculum/hour-of-code-2019/Basketball/1/
+  3. Py.Checkio: &ensp; https://py.checkio.org/
