@@ -14,7 +14,7 @@ This workshop is structured as follows:
      
 
 This repository contains the following materials:
-  1. A PDF slide deck (containing the general workshop outline/flow), links to virtual games, and resources to stay connected to the CSC for future events
+  1. A PDF slide deck, which contains: the general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
      
 
 For quick access to the games played during this workshop, please see below:
