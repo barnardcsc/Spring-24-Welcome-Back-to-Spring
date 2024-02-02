@@ -14,7 +14,7 @@ This workshop is structured as follows:
      
 
 This repository contains the following materials:
-  1. A PDF slide deck, which contains: the general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
+  1. welcome-back-to-spring-2024:  PDF slide deck containing: general workshop outline/flow, links to virtual games, and resources to stay connected to the CSC for future events
      
 
 For quick access to the games played during this workshop, please see below:
